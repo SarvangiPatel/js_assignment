@@ -2,6 +2,8 @@ let grade = 'a'
 const name = 'xyz'
 
 
-// let grade = 'abc';
-// const name = "pqr"
+ grade = 'abc';
+ name = "pqr"
 
+ console.log(grade)
+ console.log(name)
